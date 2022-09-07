@@ -8,7 +8,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Course 2: Introduction to Data Science 
 
-- Course 3: Intoduction to Computation and Programming 
+- Course 3: Introduction to Computation and Programming 
 
 - Course 4: Python for Data Analytics 
 
